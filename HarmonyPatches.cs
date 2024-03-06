@@ -2,7 +2,7 @@ using System;
 using System.Reflection;
 using HarmonyLib;
 
-namespace Subscribe
+namespace WebView
 {
 	/// <summary>
 	/// This class handles applying harmony patches to the game.
